@@ -10,6 +10,11 @@ Icon
 .Trashes
 ._*
 
+# .vscode
+# yarn.lock
+# ???
+package-lock.json
+
 
 ############################
 # Linux
